@@ -6,7 +6,7 @@ This project provides an implementation of a Genetic Algorithm to solve the Knap
 ## Usage
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/rayaneghilene/Knapsack_pb/.git
+git clone https://github.com/rayaneghilene/Knapsack_pb.git
 cd Knapsack_pb
 ```
 
