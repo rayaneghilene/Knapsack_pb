@@ -11,15 +11,19 @@ cd Knapsack_pb
 ```
 
 ### 2. Create a virtual environment (optional but recommended):
-```
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```
 
 ### 3. Install the required dependencies:
-```
+```python
 pip install -r requirements.txt
 ```
+
+## Use case 
+The [notebook](https://github.com/rayaneghilene/Knapsack_pb/blob/main/Optimize%20a%20NN.ipynb) provides an example use case of the genetic algorithm for the optimization of Neural Network Hyperparameters.
+
 
 ## Citation
 ```
